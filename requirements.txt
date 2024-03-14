@@ -1,0 +1,4 @@
+pygame~=2.5.2
+pymunk~=6.6.0
+numpy~=1.26.4
+arcade~=3.0.0.dev25
